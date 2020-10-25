@@ -29,9 +29,17 @@ I am a Phd student in the Industrial Engineering and Operations Research (IEOR) 
 
 
 ## Teaching
+I have been a teaching assistant for the following course:
+<ul>
+  <li> Optimization 1 IEOR 6613 PhD level</li>
+</ul>
+
 
 ## Contact
-
+<ul>
+  <li> np2708@columbia.edu</li>
+  <li> +1 646 797 8410</li>
+</ul>
 
 
 
