@@ -6,7 +6,17 @@ I am a Phd student in the Industrial Engineering and Operations Research (IEOR) 
 
 ## Research
 ### Interests
+<ul>
+  <li>Sequential decision making </li>
+  <li>Optimization under uncertainty</li>
+  <li>Online learning</li>
+</ul>
 ### Working papers
+<ul>
+  <li>Dynamic pricing under an unknown MNL model </li>
+  <li>Approximate real-time routing for smart transit systems</li>
+</ul>
+
 
 ## Education
 
