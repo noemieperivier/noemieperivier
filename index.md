@@ -10,9 +10,10 @@ I am a Phd student in the Industrial Engineering and Operations Research (IEOR) 
 
 ## Education
 
+## Teaching
+
+## Contact
 
 
 
 
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
