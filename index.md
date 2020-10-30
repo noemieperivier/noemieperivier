@@ -44,9 +44,9 @@ My other teaching experiences include:
 
 ## Outside activities
 <ul>
-  <li> Rock climbing</li>
-  <li> Skydiving</li>
-  <li> Opera singing </li>
+  <li> Practice rock climbing on a regular basis</li>
+  <li> Certified skydiver</li>
+  <li> Practice lyrical singing </li>
 </ul>
 
 
