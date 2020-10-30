@@ -42,6 +42,12 @@ My other teaching experiences include:
   <li> Six-month internship in SJTU ParisTech Elite Institute of Technology, Shanghai, China (part of the Ecole polytechnique’s first year curriculum). Taught Mathematics and Physics to top level Chinese students. 2016-2017</li>
 </ul>
 
+##Outside activities
+<ul>
+  <li> Rock climbing</li>
+  <li> Skydiving</li>
+  <li> Opera singing </li>
+</ul>
 
 
 ## Contact
