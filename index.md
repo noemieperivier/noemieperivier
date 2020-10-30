@@ -15,7 +15,7 @@ I am a Phd student in the Industrial Engineering and Operations Research (IEOR) 
 ### Working papers
 <ul>
   <li> <i> Dynamic pricing under an unknown MNL model </i>. Noémie Périvier, Vineet Goyal </li>
-  <li> <i>Approximate real-time routing for smart transit systems </i>.  Noémie Périvier, Chamsi Hssaine, Samitha Samaranayake, Siddhartha Banerjee (2020) </li>
+  <li> <i>Approximate real-time routing for smart transit systems </i>.  Noémie Périvier, Chamsi Hssaine, Samitha Samaranayake, Siddhartha Banerjee (Under review) </li>
 </ul>
 
 
