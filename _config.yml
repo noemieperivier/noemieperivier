@@ -6,3 +6,5 @@ description: >
   <centering> <i>Columbia University</i> </centering>
   
 theme: jekyll-theme-minimal
+github:
+is\_project\_page:false
