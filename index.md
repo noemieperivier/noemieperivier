@@ -34,6 +34,15 @@ I have been a teaching assistant for the following course:
   <li> Optimization 1 IEOR 6613 PhD level</li>
 </ul>
 
+My other teaching experiences include:
+<ul>
+  <li> Mathematics oral examiner for undergraduate students, Lycée Louis-le-Grand,
+    France. 2017-2018 </li>
+  <li> Taught French to Afghan refugees through Ecole Polytechnique's charity association 2017-2019</li>
+  <li> Six-month internship in SJTU ParisTech Elite Institute of Technology, Shanghai, China (part of the Ecole polytechnique’s first year curriculum). Taught Mathematics and Physics to top level Chinese students. 2016-2017</li>
+</ul>
+
+
 
 ## Contact
 <ul>
